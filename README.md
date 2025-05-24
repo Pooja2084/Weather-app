@@ -32,14 +32,14 @@ Follow these instructions to run the project locally:
 git clone https://github.com/your-username/weather-app.git
 
 
- 2. Get your OpenWeatherMap API Key
+### 2. Get your OpenWeatherMap API Key
 Visit OpenWeatherMap API
 
 Sign up for a free account.
 
 Navigate to your profile ➔ API keys ➔ Generate a new key.
 
- 3. Set the API Key
+### 3. Set the API Key
 Open script.js
 
 Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key.
